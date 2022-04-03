@@ -5,7 +5,7 @@
 
 
 body {
-    background-color: rgb(56, 1, 1);
+    background-color: black;
 }
 
 main {
@@ -14,4 +14,29 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(39, 38, 38);
+}
+
+h1 {
+    font-size: 1.0cm;
+    color: black;
+}
+
+h2 {
+    font-size: 1.0cm;
+    color: black;
+}
+
+img.lado {
+    float: black;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
 }
